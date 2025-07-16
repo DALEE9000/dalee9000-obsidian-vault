@@ -11,10 +11,14 @@
             "id": "55352f0e585dfb75",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Meta, Creativity, Random Thoughts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meta, Creativity, Random Thoughts"
             }
           }
         ]
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,26 +170,33 @@
   },
   "active": "55352f0e585dfb75",
   "lastOpenFiles": [
-    "Meta, Creativity, Random Thoughts.md",
-    "My Second Brain.md",
-    "Computer Science and Programming.md",
+    "Tech.md",
     "AI.md",
-    "List of policy thinkers and makers.md",
+    "Personal Health.md",
+    "Meta, Creativity, Random Thoughts.md",
+    "Fractal Tech.md",
+    "List of think tanks by policy area.md",
     "Policy.md",
+    "Computer Science and Programming.md",
+    "Columbia University Lamont-Doherty Earth Observatory (2024 - ).md",
+    "Frontend + Web Development.md",
+    "International Relations.md",
+    "My Second Brain.md",
+    "Python.md",
+    "Games.md",
+    "Research.md",
+    "Untitled 1.canvas",
+    "2025-07-16.md",
+    "Untitled.canvas",
+    "Interesting People and Threads on Social Media.md",
+    "List of policy thinkers and makers.md",
     "Writing.md",
     "LessWrong.md",
     "Artificial General Intelligence (AGI).md",
     "Startups.md",
-    "Tech.md",
     "Statistics.md",
-    "Interesting People on Social Media.md",
-    "List of think tanks by policy area.md",
     "().md",
-    "Fractal Tech.md",
-    "Personal Health.md",
     "Jupyter Notebooks.md",
-    "Python.md",
-    "Welcome.md",
-    "create a link.md"
+    "Welcome.md"
   ]
 }

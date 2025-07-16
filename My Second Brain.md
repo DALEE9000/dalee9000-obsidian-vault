@@ -1,3 +1,6 @@
+# [[Research]]
+---
+
 # Mathematics
 ---
 
@@ -26,8 +29,12 @@
 - 
 # [[Policy]]
 ---
+# [[International Relations]]
+---
 
 # [[Personal Health]]
+---
+# [[Games]]
 ---
 
 # [[Meta, Creativity, Random Thoughts]]
@@ -35,7 +42,7 @@
 # [[Writing]]
 ---
 
-# [[Interesting People on Social Media]]
+# [[Interesting People and Threads on Social Media]]
 ---
 
 # [[LessWrong]]
