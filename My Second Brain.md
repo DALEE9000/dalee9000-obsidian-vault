@@ -17,3 +17,11 @@
 # Computer Science and Programming
 ---
 - [[Python]]
+
+# Tech
+---
+- [[Fractal Tech]]
+
+# [[Policy]]
+---
+- 

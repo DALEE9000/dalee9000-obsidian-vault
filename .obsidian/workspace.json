@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#statistics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,9 +167,13 @@
   },
   "active": "5eaee0fc2af77718",
   "lastOpenFiles": [
+    "My Second Brain.md",
+    "Policy.md",
+    "List of think tanks by policy area.md",
+    "Fractal Tech.md",
+    "Jupyter Notebooks.md",
     "Statistics.md",
     "Python.md",
-    "My Second Brain.md",
     "Welcome.md",
     "create a link.md"
   ]
