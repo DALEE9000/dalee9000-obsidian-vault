@@ -1,0 +1,2 @@
+- [Mavis Gallant](https://en.wikipedia.org/wiki/Mavis_Gallant)
+- [Ransom, Lois Duncan](https://en.wikipedia.org/wiki/Ransom_(Duncan_novel))

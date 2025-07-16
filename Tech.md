@@ -13,6 +13,8 @@
 - [NYC Directory System V1.0 - Tech Events](https://tech.somethingtodo.nyc/)
 - [Solei](https://www.dearsolei.com/) #third_space
 - [NYC Resistor](https://www.nycresistor.com/) #third_space 
+- [NYC AI Tinkerers](https://nyc.aitinkerers.org/) #third_space 
+- [Gary's Guide](https://www.garysguide.com/events)
 - [Effective Altruism NYC](https://www.effectivealtruism.nyc/) #third_space
 - [Ramen Club](https://www.ramenclub.so/) #third_space
 - [How to Build a World Class Engternship Program (Jake Zegil, February 27, 2024)](https://jakezegil.substack.com/p/how-to-build-a-world-class-engternship)
@@ -29,6 +31,9 @@
 - [X-energy](https://en.wikipedia.org/wiki/X-energy)
 	- [Clay Sell](https://en.wikipedia.org/wiki/Clay_Sell), CEO of X-energy and 15th US Deputy Secretary of Energy
 
+# Weather Intelligence
+- [Shane Keating](https://srkeating.com/)
+	- [X](https://x.com/science_shane)
 # Jobs
 - [Inside the $300B AI Giant: How to Land Your Dream Job at OpenAI in 2025 (Aakash Gupta and Dr. Nancy Li, March 23, 2025)](https://www.news.aakashg.com/p/how-to-break-into-openai)
 - [The different types of MLEs (Raymond Yoo, February 19, 2025)](https://raymondyoo.com/blog/the-different-types-of-mles/) #ml

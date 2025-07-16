@@ -1,3 +1,6 @@
+# Articles
+- [AI 2027](https://ai-2027.com/)
+
 # Videos
 ---
 - [DeepMind CEO Demis Hassabis + Google Co-Founder Sergey Brin: AGI by 2030?](https://www.youtube.com/watch?v=M2ZtBQI2-GY&ab_channel=AlexKantrowitz)

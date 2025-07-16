@@ -2,7 +2,8 @@ All matters warranting the #frontend tag.
 
 # Learning
 - [CSSBattle](https://cssbattle.dev/about)
-
+# Next.js
+- [coolLabs - Next Image Transformation](https://github.com/coollabsio/next-image-transformation?tab=readme-ov-file)
 # Model Websites and Blogs
 - [Zeno Rocha](https://zenorocha.com/)
 - [Raymond Yoo](https://eloquent-lovelace-e0df3f.netlify.app/)
