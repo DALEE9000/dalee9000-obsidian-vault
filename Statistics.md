@@ -8,4 +8,7 @@ A curated collection of key sources and notes on classical statistics.
 - [JM Lilly's Notes on Ocean/Atmosphere Time Series Analysis](https://jmlilly.net/course/index.html) 
 	Comprehensive course notes covering statistical methods for analyzing oceanic and atmospheric time series. Recommended by Dhruv Balwada at #columbia_ldeo.
 #atmospheric_physics #oceanography #time_series #statistics
-- 
+
+# Machine Learning
+- [A Course in Machine Learning, Hal Daumé; III](https://web.archive.org/web/20250114002202/http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf)
+- [Reinforcement learning from human feedback](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback)

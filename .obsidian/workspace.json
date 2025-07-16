@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "68ac5d748acf27f2",
+        "id": "27bb9bce4774aa57",
         "type": "tabs",
         "children": [
           {
-            "id": "5eaee0fc2af77718",
+            "id": "55352f0e585dfb75",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#statistics",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,14 +165,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5eaee0fc2af77718",
+  "active": "55352f0e585dfb75",
   "lastOpenFiles": [
+    "Meta, Creativity, Random Thoughts.md",
     "My Second Brain.md",
+    "Computer Science and Programming.md",
+    "AI.md",
+    "List of policy thinkers and makers.md",
     "Policy.md",
-    "List of think tanks by policy area.md",
-    "Fractal Tech.md",
-    "Jupyter Notebooks.md",
+    "Writing.md",
+    "LessWrong.md",
+    "Artificial General Intelligence (AGI).md",
+    "Startups.md",
+    "Tech.md",
     "Statistics.md",
+    "Interesting People on Social Media.md",
+    "List of think tanks by policy area.md",
+    "().md",
+    "Fractal Tech.md",
+    "Personal Health.md",
+    "Jupyter Notebooks.md",
     "Python.md",
     "Welcome.md",
     "create a link.md"
