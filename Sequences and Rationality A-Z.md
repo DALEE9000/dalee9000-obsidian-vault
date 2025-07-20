@@ -1,0 +1,4 @@
+- [The Sequences](https://www.readthesequences.com/)
+	- Canonical notions of the Less Wrong community
+- [Rationality: A-Z](https://www.lesswrong.com/rationality)
+	- Curated notions from the Sequences
