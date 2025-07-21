@@ -11,10 +11,14 @@
             "id": "55352f0e585dfb75",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Climate Physics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Climate Physics"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#atmospheric_physics",
+                "query": "#climate_and_weather_data",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,11 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55352f0e585dfb75",
+  "active": "4e2ff155a87f0dfb",
   "lastOpenFiles": [
+    "My Second Brain.md",
     "Frontend + Web Development.md",
     "Computer Science and Programming.md",
-    "My Second Brain.md",
     "Statistics.md",
     "Tech.md",
     "International Relations.md",
