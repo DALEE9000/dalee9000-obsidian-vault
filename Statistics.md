@@ -15,6 +15,7 @@ A curated collection of key sources and notes on classical statistics.
 - [Machine Learning Engineering, Andriy Burkov](https://soclibrary.futa.edu.ng/books/Machine%20Learning%20Engineering%20(Andriy%20Burkov)%20(Z-Library).pdf)
 - [Reinforcement learning from human feedback](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback)
 - [Wandb.ai - Scalable, customizable hyperparameter search and optimization](https://wandb.ai/site/sweeps/)
+- [Becoming an Independent Researcher and getting published in ICLR with spotlight](https://andreas-madsen.medium.com/becoming-an-independent-researcher-and-getting-published-in-iclr-with-spotlight-c93ef0b39b8b)
 
 # Signal Processing
 - [Towards Data Science - Machine Learning and Signal Processing](https://towardsdatascience.com/machine-learning-and-signal-processing-103281d27c4b/)

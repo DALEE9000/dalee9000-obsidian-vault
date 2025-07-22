@@ -1,3 +1,7 @@
+# Papers
+- ## Statistics and Oceanography
+	- [Modern Statistical Methods in Oceanography: A Hierarchical Perspective](https://arxiv.org/abs/1312.5904)
+
 # Gridded Data
 - [Arakawa grids](https://en.wikipedia.org/wiki/Arakawa_grids)
 # Data

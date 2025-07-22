@@ -15,23 +15,23 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#climate_and_weather OR tag:#climate_and_weather_data",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 5427424
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -2.3,
-  "nodeSizeMultiplier": 2.14166666666667,
+  "textFadeMultiplier": -2.5,
+  "nodeSizeMultiplier": 1.8609375,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
   "centerStrength": 0.427083333333333,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 214,
-  "scale": 0.3213363860503635,
+  "scale": 0.32133638605036596,
   "close": false
 }

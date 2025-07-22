@@ -17,6 +17,12 @@
 ## [[Oceanographic Physics]]
 ## [[Fluid Mechanics]]
 
+# [[Hydrology]]
+---
+
+# [[Materials Science]]
+---
+
 # [[Computer Science and Programming]]
 ---
 - [[Python]]
@@ -29,6 +35,9 @@
 
 # [[History]]
 ---
+# [[Economics]]
+---
+
 # [[Policy]]
 ---
 # [[International Relations]]

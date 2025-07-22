@@ -32,9 +32,12 @@
 - [X-energy](https://en.wikipedia.org/wiki/X-energy)
 	- [Clay Sell](https://en.wikipedia.org/wiki/Clay_Sell), CEO of X-energy and 15th US Deputy Secretary of Energy
 
-# Weather Intelligence
+# Satellite Imagery
+- [Satellite Imaging Corporation](https://www.satimagingcorp.com/)
+# Climate and Weather Intelligence
 - [Shane Keating](https://srkeating.com/)
 	- [X](https://x.com/science_shane)
+- [Climatize](https://climatize.earth/)
 # Jobs
 - [Inside the $300B AI Giant: How to Land Your Dream Job at OpenAI in 2025 (Aakash Gupta and Dr. Nancy Li, March 23, 2025)](https://www.news.aakashg.com/p/how-to-break-into-openai)
 - [The different types of MLEs (Raymond Yoo, February 19, 2025)](https://raymondyoo.com/blog/the-different-types-of-mles/) #ml
