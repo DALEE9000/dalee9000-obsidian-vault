@@ -7,6 +7,9 @@
 ---
 - [DeepMind CEO Demis Hassabis on How A.I. Is Reshaping Google | Interview](https://www.youtube.com/watch?v=U3d2OKEibQ4&ab_channel=HardFork)
 - [Silicon Valley Insider EXPOSES Cult-Like AI Companies | Aaron Bastani Meets Karen Hao](https://www.youtube.com/watch?v=8enXRDlWguU&ab_channel=NovaraMedia)
+# Community
+---
+- [AI Village](https://aivillage.org/)
 
 # Large Language Models (LLMs)
 - [Language Models are Few-Shot Learners (2020)](https://arxiv.org/pdf/2005.14165)
