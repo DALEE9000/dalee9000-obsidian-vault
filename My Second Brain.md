@@ -9,7 +9,7 @@
 --- 
 
 
-# Physics
+# [[Physics]]
 ---
 [[Climate Physics]]
 ## Atmospheric Physics

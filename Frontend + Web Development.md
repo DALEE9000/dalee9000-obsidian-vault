@@ -12,6 +12,7 @@ All matters warranting the #frontend tag.
 - [Raymond Yoo](https://eloquent-lovelace-e0df3f.netlify.app/)
 - [Joshua Spergel](https://spergel.github.io/)
 - [Chloe Yan](https://www.chloeyan.me/)
+- [Kaizen Joy](https://kaizencode.art/)
 
 # Chrome for Developers
 - [Origin Trials](https://developer.chrome.com/docs/web-platform/origin-trials)

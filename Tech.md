@@ -20,6 +20,7 @@
 - [How to Build a World Class Engternship Program (Jake Zegil, February 27, 2024)](https://jakezegil.substack.com/p/how-to-build-a-world-class-engternship)
 - [Unofficial guide to NYC's creative underground](https://x.com/fishlooker_/status/1888021510368972926) #new_york 
 - [SF2](https://sf2.sh/) #san_francisco
+- [CoTech](https://www.coops.tech/)
 
 # Podcasts
 - [Indie Hackers](https://www.indiehackers.com/podcasts)

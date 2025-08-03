@@ -3,6 +3,7 @@
 # People
 - [Zvi Mowshowitz](https://en.wikipedia.org/wiki/Zvi_Mowshowitz)
 - [The future belongs to those who prepare like Dwarkesh Patel](https://mercury.com/blog/dwarkesh-patel)
+- [Max Mynter](https://www.maxmynter.com/)
 # Videos
 ---
 - [DeepMind CEO Demis Hassabis on How A.I. Is Reshaping Google | Interview](https://www.youtube.com/watch?v=U3d2OKEibQ4&ab_channel=HardFork)

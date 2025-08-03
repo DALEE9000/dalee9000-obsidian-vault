@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "International Relations.md",
+                "file": "Physics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "International Relations"
+              "title": "Physics"
             }
           }
         ]
@@ -171,32 +171,32 @@
   },
   "active": "55352f0e585dfb75",
   "lastOpenFiles": [
+    "My Second Brain.md",
+    "Statistics.md",
+    "Physics.md",
+    "Tech.md",
+    "Columbia University Lamont-Doherty Earth Observatory (2024 - ).md",
+    "Research.md",
+    "Oceanographic Physics.md",
+    "AI.md",
+    "Frontend + Web Development.md",
+    "Computer Science and Programming.md",
+    "Mathematics.md",
+    "International Relations.md",
     "Policy.md",
     "List of policy thinkers and makers.md",
     "List of think tanks by policy area.md",
     "Materials Science.md",
-    "My Second Brain.md",
     "Climate Physics.md",
     "Hydrology.md",
-    "Tech.md",
-    "AI.md",
-    "Oceanographic Physics.md",
-    "Statistics.md",
-    "Computer Science and Programming.md",
     "Central Banking.md",
     "Economics.md",
-    "Frontend + Web Development.md",
-    "International Relations.md",
     "Fractal Tech.md",
     "Sequences and Rationality A-Z.md",
     "LessWrong.md",
     "History.md",
     "Meta, Creativity, Random Thoughts.md",
-    "Columbia University Lamont-Doherty Earth Observatory (2024 - ).md",
     "Python.md",
-    "Literature.md",
-    "Startups.md",
-    "Artificial General Intelligence (AGI).md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
