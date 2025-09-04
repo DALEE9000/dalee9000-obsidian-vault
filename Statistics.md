@@ -20,3 +20,6 @@ A curated collection of key sources and notes on classical statistics.
 # Signal Processing
 - [Towards Data Science - Machine Learning and Signal Processing](https://towardsdatascience.com/machine-learning-and-signal-processing-103281d27c4b/)
 - [Digital Signal Processing: Principles, Algorithms, and Applications, John G. Proakis, Dimitris G. Manolakis](https://uvceee.wordpress.com/wp-content/uploads/2016/09/digital_signal_processing_principles_algorithms_and_applications_third_edition.pdf)
+
+## Competitions
+- [Ocean Data Challenges](https://oceanprotocol.com/earn/data-challenges/)

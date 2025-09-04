@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics.md",
+                "file": "Synthesizing Sea Surface Temperature and Satellite Altimetry Observations Using Deep Learning Improves the Accuracy and Resolution of Gridded Sea Surface Height Anomalies (2023), Martin et. al..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physics"
+              "title": "Synthesizing Sea Surface Temperature and Satellite Altimetry Observations Using Deep Learning Improves the Accuracy and Resolution of Gridded Sea Surface Height Anomalies (2023), Martin et. al."
             }
           }
         ]
@@ -161,6 +161,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -171,19 +172,22 @@
   },
   "active": "55352f0e585dfb75",
   "lastOpenFiles": [
-    "My Second Brain.md",
+    "Oceanographic Physics.md",
+    "Columbia University Lamont-Doherty Earth Observatory (2024 - ).md",
     "Statistics.md",
+    "Synthesizing Sea Surface Temperature and Satellite Altimetry Observations Using Deep Learning Improves the Accuracy and Resolution of Gridded Sea Surface Height Anomalies (2023), Martin et. al..md",
+    "My Paper Reviews.md",
+    "Policy.md",
+    "My Oceanography Paper Reviews.md",
+    "My Second Brain.md",
     "Physics.md",
     "Tech.md",
-    "Columbia University Lamont-Doherty Earth Observatory (2024 - ).md",
     "Research.md",
-    "Oceanographic Physics.md",
     "AI.md",
     "Frontend + Web Development.md",
     "Computer Science and Programming.md",
     "Mathematics.md",
     "International Relations.md",
-    "Policy.md",
     "List of policy thinkers and makers.md",
     "List of think tanks by policy area.md",
     "Materials Science.md",
@@ -194,9 +198,6 @@
     "Fractal Tech.md",
     "Sequences and Rationality A-Z.md",
     "LessWrong.md",
-    "History.md",
-    "Meta, Creativity, Random Thoughts.md",
-    "Python.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

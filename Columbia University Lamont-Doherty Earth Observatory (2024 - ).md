@@ -13,4 +13,5 @@
 - [High-resolution projections of extreme heat in New York City (April 14, 2019)](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/joc.6102)
 
 # Oceanography Papers
+- [[My Oceanography Paper Reviews]]
 - [Samudra: An AI Global Ocean Emulator for Climate](https://arxiv.org/pdf/2412.03795)

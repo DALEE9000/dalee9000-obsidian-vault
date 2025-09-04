@@ -14,3 +14,6 @@
 - [GCM-Filters: Diffusion-based Spatial Filtering of Gridded Data](https://gcm-filters.readthedocs.io/en/latest/index.html)
 - [Glider Viz Panel](https://earthcube2021.github.io/ec21_book/notebooks/ec21_balwada_etal/DB_01_Glider_Viz_Panel.html) #visualization #climate_and_weather_data 
 - [(carbon)plan](https://ncview-js.staging.carbonplan.org/) #visualization #climate_and_weather_data 
+
+## Competitions
+- [AVISO Ocean Data Challenges](https://oceanprotocol.com/earn/data-challenges/)
