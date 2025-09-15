@@ -6,7 +6,8 @@
 - [Citizens for Responsible Energy Solutions](https://en.wikipedia.org/wiki/Citizens_for_Responsible_Energy_Solutions)
 - [Propel NY Energy](https://www.propelnyenergy.com/) #new_york
 - [Resilient Energy Economies](https://www.resilientenergyeconomies.org/)
-
+# Technology #tech_policy 
+- [Astera Institute](https://astera.org/about/)
 # Liberalism #liberalism
 - [Center for New Liberalism](https://cnliberalism.org/)
 # Conferences
